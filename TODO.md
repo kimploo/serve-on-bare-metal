@@ -1,0 +1,6 @@
+- esbuild로 빌드 가능한지 확인
+- React 빌드 확인
+- HTML
+- tailwind
+- Client rendering, server rendering 확인
+- dev server, prod server 확인
